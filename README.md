@@ -25,6 +25,7 @@
 <h3>Where to find me</h3>
 
 * Matrix: @real_siao:matrix.org
+* Codeberg: https://codeberg.org/realsiao
 
 
 
