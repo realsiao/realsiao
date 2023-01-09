@@ -25,6 +25,7 @@
 <h3>Where to find me</h3>
 
 * Matrix: @real_siao:matrix.org
+* Discord: realsiao#5334
 * Codeberg: https://codeberg.org/realsiao
 
 
