@@ -1,8 +1,26 @@
-<h1> 👋 Hey! Nice to see you.</h1>
+<h3>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势">
+  Hi there! Nice to see you~
+  <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
+</h3>
 
+<a href="https://github.com/realsiao">
+  <div align="right" >
+    <img align="right" src="https://count.getloli.com/get/@:realsiao?theme=rule34" alt="Real.Siao" />
+  </div>
+</a>
 
-<p>Welcome to my page! </br> I am studying in a university in Russia🇷🇺 <b></b>.</p>
-<h3>What I use</h3>
+<!-- ======================================= -->
+
+* Blog: https://www.realsiao.net/
+* Matrix: @real_siao:matrix.org
+* Discord: realsiao#5334
+* Codeberg: https://codeberg.org/realsiao
+* Mastodon: <a rel="me" href="https://pony.social/@ya_and_alone">Click here</a>
+
+<!-- https://readme-typing-svg.demolab.com/demo/ -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=studying+in+a+university+in+Russia%F0%9F%87%B7%F0%9F%87%BA)](https://git.io/typing-svg)
+<!-- ======================================= -->
 <p>
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-45b8d8?style=flat-square&logo=linux&logoColor=white" />
   <img alt="Debian" src="https://img.shields.io/badge/-Debian-45b8d8?style=flat-square&logo=Debian&logoColor=white" />
@@ -22,14 +40,11 @@
 
 </p>
 
-<h3>Where to find me</h3>
 
-* Matrix: @real_siao:matrix.org
-* Discord: realsiao#5334
-* Codeberg: https://codeberg.org/realsiao
-* Mastodon: <a rel="me" href="https://pony.social/@ya_and_alone">Click here</a>
+##### GitHub status
+![](https://github-readme-activity-graph.cyclic.app/graph?username=realsiao&theme=github)
 
-
-
+### Highlighted Projects
+![x](https://github.com/realsiao/x): Here is a collection of my various experimental code  
 
 
