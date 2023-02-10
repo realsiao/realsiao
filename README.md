@@ -12,7 +12,7 @@
 
 <!-- ======================================= -->
 
-* Blog: https://www.realsiao.net/
+* Blog: https://realsiao.net/
 * Matrix: @real_siao:matrix.org
 * Discord: realsiao#5334
 * Codeberg: https://codeberg.org/realsiao
