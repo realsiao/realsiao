@@ -47,4 +47,5 @@
 #### Highlighted Projects
 [x](https://github.com/realsiao/x): Here is a collection of my various experimental code  
 
+[finger-checker](https://github.com/realsiao/finger-checker): Cross-platform network fingerprinting tool
 
